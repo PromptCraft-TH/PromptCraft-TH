@@ -30,9 +30,19 @@ Welcome to my GitHub profile! I specialize in building autonomous AI tooling, de
 
 ### 📈 GitHub Highlights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PromptCraft-TH&show_icons=true&theme=radical&hide_border=true" alt="PromptCraft-TH's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromptCraft-TH&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+<p align="center">
+  <a href="https://github.com/PromptCraft-TH/Clarifex"><img src="https://img.shields.io/github/v/release/PromptCraft-TH/Clarifex?style=for-the-badge&logo=github&color=3fb950&label=Clarifex" alt="Clarifex Release" /></a>
+  <a href="https://github.com/PromptCraft-TH/Clarifex"><img src="https://img.shields.io/badge/Tests-198%20Passed-success?style=for-the-badge&logo=pytest" alt="Tests" /></a>
+  <a href="https://github.com/PromptCraft-TH/Clarifex"><img src="https://img.shields.io/badge/Security-CodeQL%20%26%20Dependabot-blue?style=for-the-badge&logo=githubactions" alt="Security" /></a>
+  <a href="https://github.com/PromptCraft-TH/Clarifex"><img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" /></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PromptCraft-TH&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromptCraft-TH&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
